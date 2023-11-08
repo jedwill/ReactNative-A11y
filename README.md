@@ -23,8 +23,8 @@ If the installation was successful, you should be able to run the following comm
 ## Install Project
 
     $ git clone https://github.com/jedwill/react-native-a11y
-    $ cd react-a11y
-    $ npm install install
+    $ cd react-native-a11y
+    $ npm install
 
 
 
