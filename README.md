@@ -12,7 +12,7 @@ Go to [official Node.js website](https://nodejs.org/) and download the installer
 If the installation was successful, you should be able to run the following command.
 
     $ node --version
-    v28.9.0
+    v20.9.0
 
     $ npm --version
     10.1.0
